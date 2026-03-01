@@ -207,6 +207,11 @@ The data reveals a critical context issue: April's seemingly catastrophic drop t
 ### 💡 Insight
 This order status distribution reveals a **severe operational crisis**:
 
+**Average order values by status:**
+- Completed orders average: **$1,006** ($88,530 ÷ 88) - above overall AOV
+- Pending orders average: **$1,062** ($90,285 ÷ 85) - highest value orders are stuck
+- Cancelled orders average: **$845** ($65,030 ÷ 77) - below overall AOV
+
 - **Only 35.2% of orders are completing successfully** - this is extremely low and indicates major problems in the fulfillment process
 - **34% of orders are pending** - worth approximately **$90,285** stuck in limbo, indicating fulfillment bottlenecks, inventory issues, or payment processing delays
 - **30.8% cancellation rate** (77 orders) represents **$65,030in lost revenue** - this is catastrophic and requires immediate investigation
