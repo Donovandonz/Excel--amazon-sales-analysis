@@ -200,19 +200,6 @@ The data reveals a critical context issue: April's seemingly catastrophic drop t
 
 | Status | Count | Percentage | Status Grade |
 |--------|:-----:|:----------:|--------------|
-| **Completed** | **175** | **70%** | 🟪 **HEALTHY** |
-| **Pending** | **50** | **20%** | 🟨 AVERAGE |
-| **Cancelled** | **25** | **10%** | 🟥 NEEDS REVIEW |
-
-### 💡 Insight
-While 70% completion rate seems healthy, the 10% cancellation rate (25 orders) is concerning. If each cancelled order averages $975 (AOV), that's $24,375 in lost revenue - equivalent to 10% of total revenue. The 20% pending orders (50 orders) worth ~$48,750 indicates potential fulfillment bottlenecks or payment processing delays. Reducing cancellations by just 5% could recover ~$12,000 in revenue. Given that Smartwatches are the top seller, ensuring their fulfillment process is optimized should be a priority. For large items like Washing Machines, cancellation rates may be higher due to delivery complexity - this should be investigated.
-
----
-
-## 📊 Order Status Summary
-
-| Status | Count | Percentage | Status Grade |
-|--------|:-----:|:----------:|--------------|
 | **Completed** | **88** | **35.2%** | 🟥 **CRITICAL** |
 | **Pending** | **85** | **34.0%** | 🟥 **CRITICAL** |
 | **Cancelled** | **77** | **30.8%** | 🟥 **CRITICAL** |
