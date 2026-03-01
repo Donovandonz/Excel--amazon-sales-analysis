@@ -7,6 +7,14 @@ Dataset used
 ## 🎯 Project Overview
 A comprehensive sales analytics dashboard built 100% in Microsoft Excel to track and analyze Amazon's sales performance across multiple dimensions. This interactive dashboard leverages Excel's powerful features to provide actionable insights into revenue patterns, product performance, and customer behavior across different geographical locations.
 
+---
+
+### 🧰 My Toolkit
+| Tool | What I Used It For |
+|------|-------------------|
+| 📗 Excel | Data cleaning, pivot tables, formulas, charts, and interactive dashboard |
+
+---
 
 ## 🎨 Dashboard Highlights
 Fully Excel-based - No external tools or add-ins required
