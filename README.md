@@ -198,26 +198,37 @@ The data reveals a critical context issue: April's seemingly catastrophic drop t
 
 ## 📊 Order Status Summary
 
-| Status | Count | Percentage | Status Grade |
-|--------|:-----:|:----------:|--------------|
-| **Completed** | **88** | **35.2%** | 🟥 **CRITICAL** |
-| **Pending** | **85** | **34.0%** | 🟥 **CRITICAL** |
-| **Cancelled** | **77** | **30.8%** | 🟥 **CRITICAL** |
+| Status | Count | Percentage | Status Grade | Financial Impact |
+|--------|:-----:|:----------:|--------------|------------------|
+| **Completed** | **88** | **35.2%** | 🟥 **CRITICAL** | $88,530 delivered |
+| **Pending** | **85** | **34.0%** | 🟥 **CRITICAL** | $90,285 in limbo |
+| **Cancelled** | **77** | **30.8%** | 🟥 **CRITICAL** | **$65,030 LOST** |
 
 ### 💡 Insight
 This order status distribution reveals a **severe operational crisis**:
-- **Only 35.2% of orders are completing successfully** - this is extremely low and indicates major problems
-- **34% of orders are pending** - worth approximately $82,907 (85 orders × $975 AOV) in limbo, indicating fulfillment bottlenecks, inventory issues, or payment processing delays
-- **30.8% cancellation rate** (77 orders) represents **$75,104 in lost revenue** - this is catastrophic and requires immediate investigation
 
-The fact that completed orders (88) are nearly equal to pending (85) and cancelled (77) suggests:
-1. **Fulfillment center issues** - possibly overwhelmed or understaffed
-2. **Inventory problems** - popular items may be out of stock
-3. **Payment processing failures** - especially for high-value items
-4. **Customer dissatisfaction** - leading to order cancellations
-5. **Delivery infrastructure challenges** - in certain geographic regions
+- **Only 35.2% of orders are completing successfully** - this is extremely low and indicates major problems in the fulfillment process
+- **34% of orders are pending** - worth approximately **$90,285** stuck in limbo, indicating fulfillment bottlenecks, inventory issues, or payment processing delays
+- **30.8% cancellation rate** (77 orders) represents **$65,030in lost revenue** - this is catastrophic and requires immediate investigation
 
-**Immediate action required**: Investigate the root causes, especially for high-value items like Smartwatches and the problematic Washing Machine. The current 64.8% non-completion rate (pending + cancelled) is unsustainable.
+**The financial impact is staggering:**
+- **$155,315** (63.7% of total revenue) is either stuck in pending or completely lost to cancellations
+- Only **$88,530** (36.3%) has been successfully converted to delivered revenue
+
+**Likely root causes based on category data:**
+- **High-value Home Appliances ($2,625 avg)** : Large item delivery is complex - may be causing cancellations when customers realize delivery challenges
+- **Electronics ($1,101 avg)** : Popular items like Smartwatches may be out of stock, causing pending orders
+- **Premium pricing** : High AOV ($975) means customers may experience "buyer's remorse" more frequently
+- **Geographic challenges** : San Francisco's poor performance may indicate delivery infrastructure issues
+
+**Immediate action required:**
+1. **Audit the fulfillment process** - Why are 85 orders pending?
+2. **Contact cancelled customers** - Understand why they cancelled
+3. **Review high-value item delivery options** - Especially for Home Appliances
+4. **Check inventory levels** - Are popular items out of stock?
+5. **Investigate payment processing** - Are high-value transactions failing?
+
+The current 64.8% non-completion rate (pending + cancelled) is **unsustainable** and requires executive attention.
 
 ---
 
